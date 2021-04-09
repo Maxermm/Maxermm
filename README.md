@@ -2,4 +2,4 @@
 
 ∙ 🔭 I’m currently working on Herya Lang <br>
 ∙ 🌱 I’m currently learning C, C++, Ruby, Rust and Java <br>
-∙ 🌃 I’m a Javascript, Typescript, Python, C# and Html/Css Developer
+∙ 🌃 I’m a JavaScript, TypeScript, Python, C# and Html/Css Developer
