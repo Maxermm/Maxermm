@@ -1,5 +1,5 @@
 ### Hi there, I'm Sweany 👋
 
 ∙ 🔭 I’m currently working on Herya Lang <br>
-∙ 🌱 I’m currently learning C#, C++, C, Ruby and Java <br>
-∙ 🌃 I’m a Javascript, Typescript, Python and Html/Css/Pug Developer
+∙ 🌱 I’m currently learning, C++, C, Ruby, Rust and Java <br>
+∙ 🌃 I’m a Javascript, Typescript, Python, C# and Html/Css/Pug Developer
